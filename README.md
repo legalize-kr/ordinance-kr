@@ -115,7 +115,9 @@ Legalize-KR은 수집·컴파일러·결과 저장소를 분리해 관리합니�
 | 연천군 지방공무원 여비 조례 | 2178653 | 부칙의 시행일·적용례 조문이 본문 제1조·제2조와 섞여 표시됨 |
 
 마지막 두 판본은 2026-10-17에 국가법령정보센터와 행정안전부 원문을 대조했습니다.
-일일 갱신은 [원본 해시와 검토 기한을 고정한 목록](https://github.com/legalize-kr/legalize-pipeline/blob/main/ordinances/data/deferred_revisions.yaml)으로 해당 판본의 게시를 보류합니다.
+2026-10-19에는 여섯 판본의 국가법령정보센터 XML을 다시 받아 같은 구조 오류가 남아 있음을 확인했습니다.
+일일 갱신은 [원본 해시와 검토 기한을 고정한 목록](https://github.com/legalize-kr/legalize-pipeline/blob/main/ordinances/data/deferred_revisions.yaml)으로 여섯 판본의 게시를 보류합니다.
+기존 네 판본도 검색 기간 밖에서 재조회하며, 검토 기한은 2026-10-31입니다.
 기존 게시본과 이력은 보존하며 보류 판본은 매번 원천을 재조회합니다.
 원본이 정정되면 다시 반영하고, 다른 오류나 기한 만료는 갱신을 중단합니다.
 
